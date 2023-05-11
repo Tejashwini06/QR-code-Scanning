@@ -1,0 +1,19 @@
+.container{
+    width: 80%;
+    height: 50%;
+}
+.img-code{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 40px;
+    border-color: aquamarine;
+    
+    
+
+}
+
+body{
+    text-align: center;
+}
